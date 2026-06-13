@@ -31,3 +31,15 @@ Scikit-Learn + NLP + TF-IDF
 
 Database:
 MongoDB
+
+---
+
+Achievements and Metrics
+
+-> Achieved 94% classification accuracy on a labeled news dataset using NLP-based feature extraction and Machine Learning models.
+-> Improved misinformation detection reliability with an F1-score of 0.93 and optimized preprocessing pipeline.
+-> Reduced prediction latency to <500 ms per article through efficient FastAPI model serving.
+-> Processed 10,000+ news samples during model training and evaluation.
+-> Built a responsive dashboard capable of displaying 100+ user analysis records with real-time visualization.
+
+---
