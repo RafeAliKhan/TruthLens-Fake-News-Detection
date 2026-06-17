@@ -34,7 +34,7 @@ MongoDB
 
 ---
 
-Achievements and Metrics
+# Achievements and Metrics
 
 -> Achieved 94% classification accuracy on a labeled news dataset using NLP-based feature extraction and Machine Learning models. <br>
 -> Improved misinformation detection reliability with an F1-score of 0.93 and optimized preprocessing pipeline. <br>
