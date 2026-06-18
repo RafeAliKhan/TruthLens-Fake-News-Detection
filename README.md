@@ -21,13 +21,13 @@ interactive dashboard.
 ## Tech Stack
 
 Frontend:
-React + TypeScript + Tailwind CSS
+`React` + `TypeScript` + `Tailwind CSS`
 
 Backend:
-FastAPI + Python
+`FastAPI` + `Python`
 
 Machine Learning:
-Scikit-Learn + NLP + TF-IDF
+`Scikit-Learn` + `NLP` + `TF-IDF`
 
 Database:
 MongoDB
