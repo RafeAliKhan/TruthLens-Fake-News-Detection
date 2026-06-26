@@ -8,6 +8,13 @@ The application provides real-time credibility predictions,
 confidence scores, and explainable AI insights through a modern
 interactive dashboard.
 
+---
+
+<img width="709" height="647" alt="image" src="https://github.com/user-attachments/assets/926ab919-05c1-4837-a591-f60e43cfa18b" />
+
+
+---
+
 ## Features
 
 ✔ AI-based news classification  
