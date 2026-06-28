@@ -1,0 +1,523 @@
+[
+  {
+    "id": "ec567b49",
+    "title": "City council approves new infrastructure budget after public hearings",
+    "source": null,
+    "url": null,
+    "verdict": "UNCERTAIN",
+    "fake_score": 35.5,
+    "real_score": 64.5,
+    "confidence": 64.5,
+    "features": {
+      "word_count": 44,
+      "sentence_count": 2,
+      "avg_sentence_length": 22.0,
+      "sensational_words": 0,
+      "credible_indicators": 2,
+      "exclamation_marks": 0,
+      "caps_ratio": 1.5,
+      "question_marks": 0
+    },
+    "signals": [],
+    "important_words": [
+      {
+        "word": "city",
+        "weight": 0.182
+      },
+      {
+        "word": "city council",
+        "weight": 0.182
+      },
+      {
+        "word": "council",
+        "weight": 0.182
+      },
+      {
+        "word": "infrastructure budget",
+        "weight": 0.182
+      },
+      {
+        "word": "new infrastructure",
+        "weight": 0.182
+      },
+      {
+        "word": "new infrastructure budget",
+        "weight": 0.182
+      },
+      {
+        "word": "public hearing",
+        "weight": 0.182
+      },
+      {
+        "word": "budget",
+        "weight": 0.163
+      },
+      {
+        "word": "hearing",
+        "weight": 0.163
+      },
+      {
+        "word": "infrastructure",
+        "weight": 0.163
+      }
+    ],
+    "preprocessed_length": 36,
+    "timestamp": "2026-06-25T16:50:09.554871"
+  },
+  {
+    "id": "ac2dee83",
+    "title": "URGENT: They are lying to you about the vaccine hoax dangerous experiment",
+    "source": null,
+    "url": null,
+    "verdict": "SUSPICIOUS",
+    "fake_score": 66.3,
+    "real_score": 33.7,
+    "confidence": 66.3,
+    "features": {
+      "word_count": 42,
+      "sentence_count": 2,
+      "avg_sentence_length": 21.0,
+      "sensational_words": 4,
+      "credible_indicators": 0,
+      "exclamation_marks": 0,
+      "caps_ratio": 3.3,
+      "question_marks": 0
+    },
+    "signals": [
+      {
+        "type": "warning",
+        "label": "Sensational Language",
+        "description": "Found 4 sensationalist words",
+        "severity": "high"
+      }
+    ],
+    "important_words": [
+      {
+        "word": "secret",
+        "weight": 0.148
+      },
+      {
+        "word": "agent",
+        "weight": 0.123
+      },
+      {
+        "word": "agent spotted",
+        "weight": 0.123
+      },
+      {
+        "word": "agent spotted surveillance",
+        "weight": 0.123
+      },
+      {
+        "word": "big",
+        "weight": 0.123
+      },
+      {
+        "word": "big pharma",
+        "weight": 0.123
+      },
+      {
+        "word": "big pharma decade",
+        "weight": 0.123
+      },
+      {
+        "word": "brave doctor",
+        "weight": 0.123
+      },
+      {
+        "word": "cure",
+        "weight": 0.123
+      },
+      {
+        "word": "dangerous",
+        "weight": 0.123
+      }
+    ],
+    "preprocessed_length": 30,
+    "timestamp": "2026-06-25T16:50:09.541564"
+  },
+  {
+    "id": "e2552e89",
+    "title": "University researchers publish findings on renewable energy",
+    "source": null,
+    "url": null,
+    "verdict": "UNCERTAIN",
+    "fake_score": 39.5,
+    "real_score": 60.5,
+    "confidence": 60.5,
+    "features": {
+      "word_count": 43,
+      "sentence_count": 3,
+      "avg_sentence_length": 14.3,
+      "sensational_words": 0,
+      "credible_indicators": 5,
+      "exclamation_marks": 0,
+      "caps_ratio": 1.4,
+      "question_marks": 0
+    },
+    "signals": [
+      {
+        "type": "positive",
+        "label": "Credibility Markers",
+        "description": "5 credible source indicators found",
+        "severity": "low"
+      }
+    ],
+    "important_words": [
+      {
+        "word": "research",
+        "weight": 0.299
+      },
+      {
+        "word": "finding",
+        "weight": 0.267
+      },
+      {
+        "word": "analyzing",
+        "weight": 0.177
+      },
+      {
+        "word": "application",
+        "weight": 0.177
+      },
+      {
+        "word": "collaborated",
+        "weight": 0.177
+      },
+      {
+        "word": "conducted",
+        "weight": 0.177
+      },
+      {
+        "word": "energy",
+        "weight": 0.177
+      },
+      {
+        "word": "institution",
+        "weight": 0.177
+      },
+      {
+        "word": "institution collaborated",
+        "weight": 0.177
+      },
+      {
+        "word": "international",
+        "weight": 0.177
+      }
+    ],
+    "preprocessed_length": 35,
+    "timestamp": "2026-06-25T16:50:09.527918"
+  },
+  {
+    "id": "d6569305",
+    "title": "BOMBSHELL: Secret cabal controls world economy exposed whistleblower",
+    "source": null,
+    "url": null,
+    "verdict": "SUSPICIOUS",
+    "fake_score": 63.2,
+    "real_score": 36.8,
+    "confidence": 63.2,
+    "features": {
+      "word_count": 37,
+      "sentence_count": 2,
+      "avg_sentence_length": 18.5,
+      "sensational_words": 9,
+      "credible_indicators": 0,
+      "exclamation_marks": 0,
+      "caps_ratio": 6.0,
+      "question_marks": 0
+    },
+    "signals": [
+      {
+        "type": "warning",
+        "label": "Sensational Language",
+        "description": "Found 9 sensationalist words",
+        "severity": "high"
+      },
+      {
+        "type": "warning",
+        "label": "Excessive Capitalization",
+        "description": "6.0% of text is uppercase",
+        "severity": "medium"
+      }
+    ],
+    "important_words": [
+      {
+        "word": "control",
+        "weight": 0.252
+      },
+      {
+        "word": "bombshell",
+        "weight": 0.228
+      },
+      {
+        "word": "exposed",
+        "weight": 0.138
+      },
+      {
+        "word": "alert",
+        "weight": 0.135
+      },
+      {
+        "word": "cabal",
+        "weight": 0.135
+      },
+      {
+        "word": "cabal control",
+        "weight": 0.135
+      },
+      {
+        "word": "cabal control world",
+        "weight": 0.135
+      },
+      {
+        "word": "conspiracy control",
+        "weight": 0.135
+      },
+      {
+        "word": "conspiracy control population",
+        "weight": 0.135
+      },
+      {
+        "word": "control population",
+        "weight": 0.135
+      }
+    ],
+    "preprocessed_length": 32,
+    "timestamp": "2026-06-25T16:50:09.515597"
+  },
+  {
+    "id": "4f0d52cf",
+    "title": "Federal Reserve raises interest rates following inflation data",
+    "source": null,
+    "url": null,
+    "verdict": "UNCERTAIN",
+    "fake_score": 39.8,
+    "real_score": 60.2,
+    "confidence": 60.2,
+    "features": {
+      "word_count": 41,
+      "sentence_count": 2,
+      "avg_sentence_length": 20.5,
+      "sensational_words": 0,
+      "credible_indicators": 3,
+      "exclamation_marks": 0,
+      "caps_ratio": 1.9,
+      "question_marks": 0
+    },
+    "signals": [
+      {
+        "type": "positive",
+        "label": "Credibility Markers",
+        "description": "3 credible source indicators found",
+        "severity": "low"
+      }
+    ],
+    "important_words": [
+      {
+        "word": "federal",
+        "weight": 0.273
+      },
+      {
+        "word": "federal reserve",
+        "weight": 0.27
+      },
+      {
+        "word": "inflation",
+        "weight": 0.27
+      },
+      {
+        "word": "rate",
+        "weight": 0.27
+      },
+      {
+        "word": "reserve",
+        "weight": 0.27
+      },
+      {
+        "word": "data",
+        "weight": 0.221
+      },
+      {
+        "word": "following",
+        "weight": 0.192
+      },
+      {
+        "word": "according",
+        "weight": 0.159
+      },
+      {
+        "word": "analysis",
+        "weight": 0.159
+      },
+      {
+        "word": "analysis economic",
+        "weight": 0.159
+      }
+    ],
+    "preprocessed_length": 33,
+    "timestamp": "2026-06-25T16:50:09.502492"
+  },
+  {
+    "id": "b09c00ee",
+    "title": "SHOCKING: Government EXPOSED in massive cover-up",
+    "source": null,
+    "url": null,
+    "verdict": "SUSPICIOUS",
+    "fake_score": 62.0,
+    "real_score": 38.0,
+    "confidence": 62.0,
+    "features": {
+      "word_count": 33,
+      "sentence_count": 4,
+      "avg_sentence_length": 8.2,
+      "sensational_words": 6,
+      "credible_indicators": 0,
+      "exclamation_marks": 2,
+      "caps_ratio": 18.1,
+      "question_marks": 0
+    },
+    "signals": [
+      {
+        "type": "warning",
+        "label": "Sensational Language",
+        "description": "Found 6 sensationalist words",
+        "severity": "high"
+      },
+      {
+        "type": "warning",
+        "label": "Excessive Capitalization",
+        "description": "18.1% of text is uppercase",
+        "severity": "medium"
+      }
+    ],
+    "important_words": [
+      {
+        "word": "alert",
+        "weight": 0.232
+      },
+      {
+        "word": "bombshell",
+        "weight": 0.232
+      },
+      {
+        "word": "cover",
+        "weight": 0.232
+      },
+      {
+        "word": "deep",
+        "weight": 0.232
+      },
+      {
+        "word": "deep state",
+        "weight": 0.232
+      },
+      {
+        "word": "document prove",
+        "weight": 0.232
+      },
+      {
+        "word": "leaked document",
+        "weight": 0.232
+      },
+      {
+        "word": "leaked document prove",
+        "weight": 0.232
+      },
+      {
+        "word": "urgent",
+        "weight": 0.232
+      },
+      {
+        "word": "document",
+        "weight": 0.207
+      }
+    ],
+    "preprocessed_length": 21,
+    "timestamp": "2026-06-25T16:50:09.486197"
+  },
+  {
+    "id": "e08be9f5",
+    "title": "SHOCKING: Government EXPOSED in massive cover-up conspiracy",
+    "source": null,
+    "url": null,
+    "verdict": "SUSPICIOUS",
+    "fake_score": 62.8,
+    "real_score": 37.2,
+    "confidence": 62.8,
+    "features": {
+      "word_count": 35,
+      "sentence_count": 4,
+      "avg_sentence_length": 8.8,
+      "sensational_words": 4,
+      "credible_indicators": 0,
+      "exclamation_marks": 3,
+      "caps_ratio": 16.9,
+      "question_marks": 0
+    },
+    "signals": [
+      {
+        "type": "warning",
+        "label": "Sensational Language",
+        "description": "Found 4 sensationalist words",
+        "severity": "high"
+      },
+      {
+        "type": "warning",
+        "label": "Excessive Capitalization",
+        "description": "16.9% of text is uppercase",
+        "severity": "medium"
+      },
+      {
+        "type": "warning",
+        "label": "Emotional Punctuation",
+        "description": "3 exclamation marks detected",
+        "severity": "medium"
+      }
+    ],
+    "important_words": [
+      {
+        "word": "conspiracy",
+        "weight": 0.289
+      },
+      {
+        "word": "cover",
+        "weight": 0.24
+      },
+      {
+        "word": "deep",
+        "weight": 0.24
+      },
+      {
+        "word": "deep state",
+        "weight": 0.24
+      },
+      {
+        "word": "document prove",
+        "weight": 0.24
+      },
+      {
+        "word": "leaked document",
+        "weight": 0.24
+      },
+      {
+        "word": "leaked document prove",
+        "weight": 0.24
+      },
+      {
+        "word": "citizen",
+        "weight": 0.214
+      },
+      {
+        "word": "document",
+        "weight": 0.214
+      },
+      {
+        "word": "hiding",
+        "weight": 0.214
+      }
+    ],
+    "preprocessed_length": 20,
+    "timestamp": "2026-06-16T16:50:13.186222"
+  }
+]
